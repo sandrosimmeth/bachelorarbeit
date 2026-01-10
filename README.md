@@ -48,7 +48,7 @@ Die Implementierung erfolgte unter **Ubuntu 24.04 (WSL)** mit folgender Konfigur
 
 Falls dieser Code für eigene Forschungszwecke genutzt wird, bitte wie folgt referenzieren:
 
-> [Simmeth, Sandro]. (2025). *Analyse des Domain Gaps bei der Erkennung von Pflanzenkrankheiten mittels EfficientNet-B0*. Bachelorarbeit, IU Internationale Hochschule.
+> [Simmeth, Sandro]. (2025). *Pflanzenkrankheitserkennung mit Deep Learning: Ein interpretierba-rer Vergleich von Datenaugmentation und Finetuning zur daten-effizienten Überbrückung der „Lab-to-Field“-Domänenlücke*. Bachelorarbeit, IU Internationale Hochschule.
 
 ---
 *Hinweis: Dies ist ein wissenschaftliches Repository zu Bildungszwecken.*
